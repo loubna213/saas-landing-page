@@ -1,4 +1,4 @@
-HEAD
+
 # saas-landing-page
 
 # React + Vite
